@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "time": "08:30",
+        "message": "Workout"
+    },
+    {
+        "id": 2,
+        "time": "09:00",
+        "message": "Meeting"
+    }
+]
